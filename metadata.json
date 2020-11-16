@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Install Multiple Visual Studio Team Services (VSTS) Agents",
+  "description": "This template builds a Virtual Machine and supporting Resources with Windows Core 2016 installed. It also installs and configures upto 4 VSTS build agents and links them to a VSTS Pool",
+  "summary": "Windows agent Agent(s) Server",
+  "githubUsername": "ksingh3",
+  "dateUpdated": "2020-11-16"
+}
